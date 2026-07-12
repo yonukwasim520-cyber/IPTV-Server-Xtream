@@ -16,7 +16,7 @@ Features
 - ✅ Automatic channel generation from MP4 files
 - ✅ MPEG-TS (".ts") live streaming
 - ✅ Web control panel
-- ✅ Upload and delete videos
+- ✅ Upload and delete and Renaming videos
 - ✅ Works on Android (Termux) and Linux
 - ✅ Lightweight and easy to run
 
