@@ -158,19 +158,6 @@ Notes
 
 ---
 
-Future Improvements
-
-Possible future features:
-
-- Multiple user accounts
-- Database support
-- Advanced channel management
-- More video formats
-- Remote management
-- Improved streaming controls
-
----
-
 License
 
 This project is open source and available for learning and personal projects.
