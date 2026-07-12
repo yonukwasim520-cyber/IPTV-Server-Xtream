@@ -122,7 +122,7 @@ Password:
 
 You can change them in:
 
-server.py
+config.py
 
 Edit:
 
